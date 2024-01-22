@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<playlist>
+    <tracklist>
+        <track>
+            <title>Cancion1 - Album1</title>
+            <location>C:\Users\velet\Documents\Log-WVWZZZ3CZ8P062790.txt</location>
+            <lenght>23</lenght>
+        </track>
+        <track>
+            <title>Cancion 2</title>
+            <location>C:\Users\velet\Documents\Log-WVWZZZ3CZ8P062790.txt</location>
+            <lenght>34</lenght>
+        </track>
+    </tracklist>
+</playlist>
